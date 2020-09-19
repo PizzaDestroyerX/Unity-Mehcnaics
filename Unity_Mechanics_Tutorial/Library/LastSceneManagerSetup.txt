@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Top Down Shooter/Top Down Shooter Test/Test Vid 9.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
